@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/Aruna-Sree/CommonModule'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Aruna' }
+  s.author           = { 'Aruna' => 'arunaiosdev@gmail.com' }
   s.source           = { :git => 'https://github.com/Aruna-Sree/CommonModule.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
